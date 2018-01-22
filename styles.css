@@ -56,14 +56,14 @@ p
     }
 }
 
-@media (min-width: 1920px) {
+/* @media (min-width: 1920px) {
     .post
     {
         width: 800px;
     }
     .left
     {
-        margin-left: 1 auto;
+        margin-left: auto;
     }
-}
+} */
   
